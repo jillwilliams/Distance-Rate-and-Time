@@ -1,0 +1,34 @@
+body {
+    font-family: "Long Cang", cursive;
+    letter-spacing: 3px;
+    font-size: 2rem;
+    margin: 15px 35px 45px 35px;
+    color: white;
+    background-image: linear-gradient(orange, red);
+}
+h1 {
+    text-align: center;
+}
+#img0 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    border: 1px black solid;
+    outline: 1px white solid;
+}
+#img1, #img2, #img3, #img4 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px black solid;
+    outline: 1px white solid; 
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
